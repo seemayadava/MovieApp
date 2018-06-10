@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Movie Stage1</string>
+    <string name="action_popular">Most Popular</string>
+    <string name="action_rated">Top Rated</string>
+    <string name="action_settings">Settings</string>
+</resources>
